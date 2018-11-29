@@ -1,0 +1,14 @@
+名称  类型  绝对路径  创建时间  文件大小  
+chaper9  目录  D:\Python\PythonCode\book_project\chaper9  Wed Oct 17 19:40:00 2018  
+code  目录  D:\Python\PythonCode\book_project\code  Mon Oct 15 01:05:16 2018  
+test  目录  D:\Python\PythonCode\book_project\test  Mon Oct 15 01:04:56 2018  
+close.py  文件  D:\Python\PythonCode\book_project\close.py  Sun Oct 14 23:09:38 2018  0.14kb
+example1.txt  文件  D:\Python\PythonCode\book_project\example1.txt  Fri Nov  2 14:47:39 2018  1.26kb
+lseek.py  文件  D:\Python\PythonCode\book_project\lseek.py  Sun Oct 14 23:29:56 2018  0.31kb
+open.py  文件  D:\Python\PythonCode\book_project\open.py  Sun Oct 14 23:53:28 2018  0.1kb
+read_close.py  文件  D:\Python\PythonCode\book_project\read_close.py  Sun Oct 14 23:58:07 2018  0.13kb
+remove.py  文件  D:\Python\PythonCode\book_project\remove.py  Mon Oct 15 00:19:49 2018  0.06kb
+rename.py  文件  D:\Python\PythonCode\book_project\rename.py  Mon Oct 15 00:23:29 2018  0.18kb
+test.txt  文件  D:\Python\PythonCode\book_project\test.txt  Mon Oct 15 01:16:29 2018  0.0kb
+walk.py  文件  D:\Python\PythonCode\book_project\walk.py  Mon Oct 15 00:47:37 2018  0.41kb
+write.py  文件  D:\Python\PythonCode\book_project\write.py  Mon Oct 15 00:33:50 2018  0.13kb

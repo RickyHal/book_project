@@ -1,0 +1,4 @@
+名称  类型  绝对路径  创建时间  文件大小  
+example1.py  文件  D:\Python\PythonCode\book_project\chaper9\example\example1.py  Fri Nov  2 14:27:06 2018  2.1kb
+example1.txt  文件  D:\Python\PythonCode\book_project\chaper9\example\example1.txt  Fri Nov  2 14:44:43 2018  0.06kb
+example2.py  文件  D:\Python\PythonCode\book_project\chaper9\example\example2.py  Fri Nov  2 18:27:32 2018  8.26kb
