@@ -1,4 +1,7 @@
 # tuple_return.py
+#!/usr/bin/env python3
+
+
 def tuple_return():  # 定义一个函数
     a = 'Hello'
     b = 'Python'
